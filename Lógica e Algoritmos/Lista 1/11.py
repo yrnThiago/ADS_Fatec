@@ -1,0 +1,1 @@
+print(f"2^1000 tem {len(str(2 ** 10000))} dígitos")

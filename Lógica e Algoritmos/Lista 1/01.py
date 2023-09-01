@@ -1,0 +1,1 @@
+print(f"Soma: {int(input()) + int(input())}")

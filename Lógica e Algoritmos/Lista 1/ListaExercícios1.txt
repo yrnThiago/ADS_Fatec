@@ -1,0 +1,47 @@
+1)
+print(f"Soma: {int(input()) + int(input())}")
+
+2)
+print(f"{int(input()) * 1000} milímetros")
+
+3)
+days = int(input()) * 24 * 60 ** 2
+hours = int(input()) * 60 ** 2
+min = int(input()) * 60
+sec = int(input())
+
+print(f"Total: {days + hours + min + sec}s")
+
+4)
+salary = float(input())
+rise = salary * (float(input()) / 100)  
+
+print(f"Aumento: R$ {rise:.2f}\nNovo salário: R$ {salary + rise:.2f}")
+
+5)
+product_price = float(input())
+discount = product_price * (float(input()) / 100)  
+
+print(f"Desconto: R$ {discount:.2f}\nNovo valor de produto: R$ {product_price - discount:.2f}")
+
+6)
+hours, min = f"{float(input()) / float(input()):.2f}".split(".")
+hours = f"{hours}h" if (int(hours)) else ""
+min = f"{min}min" if (int(min)) else ""
+
+print(f"Tempo médio da viagem: {hours}{min}")
+
+7)
+print(f"{9 * (int(input()) / 5) + 32} °F")
+
+8)
+print(f"{(int(input()) - 32) / 1.8:.0f} °C")
+
+9)
+print(f"Preço a pagar: R$ {int(input()) * 0.15 + int(input()) * 60:.2f}")
+
+10)
+print(f"O fumante perderá {int(input()) * (int(input()) * 365) * 10 / 1440:.0f} anos de vida")
+
+11)
+print(f"2^10000 tem {len(str(2 ** 10000))} dígitos")

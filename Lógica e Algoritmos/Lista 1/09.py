@@ -1,0 +1,1 @@
+print(f"Preço a pagar: R$ {int(input()) * 0.15 + int(input()) * 60:.2f}")
