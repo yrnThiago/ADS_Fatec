@@ -1,0 +1,1 @@
+print(f"O menor valor é {min(map(float, input().split()))}")

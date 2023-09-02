@@ -1,0 +1,1 @@
+print(f"O maior valor é {max(map(float, input().split()))}")
