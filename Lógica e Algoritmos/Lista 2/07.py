@@ -6,7 +6,7 @@ def calcula_valor_a_pagar(latas: int) -> float:
 def calcula_quantas_latas_sao_necessarias(area: int) -> int:
     return ceil(area / 3 / 18)
 
-def get_qtd_latas_e_valor_total(area: int):
+def get_qtd_latas_e_valor_total(area: int) -> tuple:
     latas = calcula_quantas_latas_sao_necessarias(area)
     valor_total = calcula_valor_a_pagar(latas)
 
