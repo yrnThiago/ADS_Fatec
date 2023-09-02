@@ -1,0 +1,88 @@
+1)
+def forma_triangulo(a: float, b: float, c: float) -> bool:
+    return a >= b + c
+
+def tipo_do_triangulo(a: float, b: float, c: float) -> str:
+    if a == b == c:
+        return 'EQUILATERO'
+    elif a != b != c:
+        return "ESCALENO"
+    
+    return 'ISOSCELES'
+    
+
+lado_menor, lado_medio, lado_maior = sorted(map(float, input().split(' ')))
+if forma_triangulo(lado_menor, lado_medio, lado_maior):
+    print(f"TRIÂNGULO {tipo_do_triangulo(lado_menor, lado_medio, lado_maior)}")
+else:
+    print("NÃO FORMA TRIÂNGULO")
+
+
+2)
+def verifica_se_ano_eh_bissexto(ano: int) -> bool:
+    return ano % 4 == 0 and ano % 100 != 0 or ano % 400 == 0
+
+ano = int(input())
+print(f"{ano} {'é' if verifica_se_ano_eh_bissexto(ano) else 'não é'} um ano bissexto")
+3)
+def tem_peso_excesso(peso: int) -> bool:
+    return peso > peso_max_kg
+
+def calcula_multa_e_excesso(peso: int) -> str:
+    if tem_peso_excesso(peso):
+        excesso = peso - peso_max_kg
+        multa = 4.0 * excesso
+
+        return f"Excesso: {excesso}Kg - Multa: R$ {multa:.2f}"
+    
+    return "Excesso: ZERO - Multa: ZERO"
+
+peso_max_kg = 50
+peso = int(input())
+print(calcula_multa_e_excesso(peso))
+
+
+4)
+print(f"O maior valor é {max(map(float, input().split()))}")
+
+5)
+print(f"O menor valor é {min(map(float, input().split()))}")
+
+6)
+def calcula_e_mostra_salario_e_descontos(ganho_hora: float, horas_trabalhadas: int) -> str:
+    salario_bruto = ganho_hora * horas_trabalhadas
+    ir = salario_bruto * 0.11
+    inss = salario_bruto * 0.08
+    sindicato = salario_bruto * 0.05
+    salario_liquido = salario_bruto - ir - inss - sindicato
+
+    return f"""
+    + Salário Bruto: R$ {salario_bruto}\n
+    - IR(11%): R$ {ir}\n
+    - INSS(8%): R$ {inss}\n
+    - Sindicato(5%): R$ {sindicato}\n
+    = Salário Liquido: R$ {salario_liquido}
+    """
+
+ganho_hora = float(input())
+horas_trabalhadas = int(input())
+print(calcula_e_mostra_salario_e_descontos(ganho_hora, horas_trabalhadas))
+
+7)
+from math import ceil
+
+def calcula_valor_a_pagar(latas: int) -> float:
+    return latas * 80.00
+
+def calcula_quantas_latas_sao_necessarias(area: int) -> int:
+    return ceil(area / 3 / 18)
+
+def get_qtd_latas_e_valor_total(area: int) -> tuple:
+    latas = calcula_quantas_latas_sao_necessarias(area)
+    valor_total = calcula_valor_a_pagar(latas)
+
+    return latas, valor_total
+
+area = int(input())
+qtd_latas, preco_total =  get_qtd_latas_e_valor_total(area) 
+print(f"Quantidade de latas: {qtd_latas} - Preço total: R$ {preco_total:.2f}")
