@@ -1,0 +1,65 @@
+1)
+from random import randint
+
+numeros = [randint(1, 100) for _ in range(10)]
+maior, menor = 1, 100
+
+for num in numeros:
+    if num >= maior: maior = num
+    if num <= menor: menor = num
+
+print(f"{numeros}\nMaior: {maior}\nMenor: {menor}")
+
+2)
+from random import randint
+
+pares, impares = [], []
+numeros = [randint(1, 100) for _ in range(20)]
+
+for num in numeros:
+    if num % 2 == 0: pares.append(num)
+    else: impares.append(num)
+
+print(numeros, pares, impares)
+
+
+
+3)
+from random import randint
+
+v1 = [randint(1, 100) for _ in range(10)]
+v2 = [randint(1, 100) for _ in range(10)]
+v3 = v1 + v2
+
+print(v1, v2, v3)
+
+
+4)
+letras_selecionadas = 'python'
+palavras = """
+The Python Software Foundation and the global Python community welcome and encourage participation by everyone. 
+Our community is based on mutual respect, tolerance, and encouragement, and we are working to help each other live up
+to these principles. 
+We want our community to be more diverse: whoever you are, and whatever your background, we welcome you.""".lower().split()
+
+palavras_filtradas = [p for p in palavras if p.isalnum() and p[0] or p[-1] in letras_selecionadas]
+print(palavras_filtradas)
+
+5)
+def palavra_eh_valida(palavra: str) -> bool:
+    if palavra.isalnum() and len(palavra) > 4:
+        for letra in letras_selecionadas:
+            if letra in palavra: return True
+            
+        return False
+
+letras_selecionadas = 'python'
+palavras = """
+The Python Software Foundation and the global Python community welcome and encourage participation by everyone. 
+Our community is based on mutual respect, tolerance, and encouragement, and we are working to help each other live up
+to these principles. 
+We want our community to be more diverse: whoever you are, and whatever your background, we welcome you.""".lower().split()
+
+palavras_filtradas = [p for p in palavras if palavra_eh_valida(p)]
+print(len(palavras_filtradas))
+
