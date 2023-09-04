@@ -1,0 +1,65 @@
+1)
+def nota_eh_valida(nota: float) -> bool:
+    return 0 <= nota <= 10
+
+while True:
+    nota = float(input())
+    if nota_eh_valida(nota):
+        break
+    
+    print("Nota inválida! Digite novamente...")
+
+2)
+def credenciais_sao_validas(nome_de_usuario: str, senha: str) -> bool:
+    return nome_de_usuario != senha
+
+while True:
+    nome_de_usuario = input()
+    senha = input()
+
+    if credenciais_sao_validas(nome_de_usuario, senha):
+        break
+
+    print("Senha inválida! Digite as credenciais novamente...")
+
+3)
+def calcula_anos(pais_a: int, taxa_a: float, pais_b: int, taxa_b: float) -> int:
+    anos = 0
+
+    while pais_a <= pais_b:
+        pais_a += pais_a * taxa_a
+        pais_b += pais_b * taxa_b
+
+        anos += 1
+
+    return anos
+
+print(f"{calcula_anos(80000, 0.03, 200000, 0.015)} anos")
+
+4)
+def fib(x: int) -> int:
+    ini, fim = 0, 1
+    
+    for _ in range(x):
+        proximo_elem = ini + fim
+        ini = fim
+        fim = proximo_elem
+
+    return ini
+
+print(fib(int(input())))
+
+5)
+def mdc(numeros: list) -> int:
+    maior, menor = sorted(numeros)
+
+    while True:
+        resto = maior % menor
+        if not resto:
+            return menor
+        
+        maior = menor
+        menor = resto
+
+x, y = map(int, input().split())
+print(mdc([x, y]))
