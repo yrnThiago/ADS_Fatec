@@ -1,13 +1,3 @@
-1)
-x, y = 2, 5
-if y > 8:
-    y *= 2
-else:
-    x *= 2
-
-print(x + y)
-
-2)
 cont = 0
 for i in range(1, 10):
     if i != 3:
