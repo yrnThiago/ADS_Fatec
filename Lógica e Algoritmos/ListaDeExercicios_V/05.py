@@ -1,36 +1,3 @@
-1)
-x, y = 2, 5
-if y > 8:
-    y *= 2
-else:
-    x *= 2
-
-print(x + y)
-
-2)
-cont = 0
-for i in range(1, 10):
-    if i != 3:
-        for j in range(1, 7):
-            print("oi")
-            cont += 1
-
-print(cont)
-
-3)
-cont = 0
-for x in range(1067, 3628):
-    if x % 2 == 0 and x % 7 == 0:
-        cont += 1 
-
-print(cont)
-
-4)
-numeros_sortudos = [i for i in range(18644, 33088) if "2" in str(i) and "7" not in str(i)]
-
-print(len(numeros_sortudos))
-
-5)
 def verifica_qts_numeros_sao_legais(num: str) -> bool:
     if num[0] == num[-1]:
         return False
