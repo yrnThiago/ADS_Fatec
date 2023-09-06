@@ -1,4 +1,4 @@
-def verifica_qts_numeros_sao_legais(num: str) -> bool:
+def numero_eh_legal(num: str) -> bool:
     if num[0] == num[-1]:
         return False
     
@@ -43,5 +43,5 @@ numeros = """
 662224 666265 668010 672480 672695 676868 677125 678315
 """.split()
 
-numeros_validos = [num for num in numeros if verifica_qts_numeros_sao_legais(num)]
+numeros_validos = [num for num in numeros if numero_eh_legal(num)]
 print(len(numeros_validos))
