@@ -6,7 +6,7 @@
 # feriado é True nos feriados
 # você pode ficar dormindo quando é feriado ou não é dia semana
 # retorne True ou False conforme você vá dormir ou não
-def dormir(dia_semana, feriado):
+def dormir(dia_semana: bool, feriado: bool) -> bool:
   return feriado or not dia_semana
 
 # B. alunos_problema
@@ -14,7 +14,7 @@ def dormir(dia_semana, feriado):
 # a_sorri e b_sorri indicam se a e b sorriem
 # temos problemas quando ambos estão sorrindo ou ambos não estão sorrindo
 # retorne True quando houver problemas
-def alunos_problema(a_sorri, b_sorri):
+def alunos_problema(a_sorri: bool, b_sorri: bool) -> bool:
   return a_sorri == b_sorri
 
 # C. soma_dobro
@@ -22,7 +22,7 @@ def alunos_problema(a_sorri, b_sorri):
 # porém se os números forem iguais retorna o dobro da soma
 # soma_dobro(1, 2) -> 3
 # soma_dobro(2, 2) -> 8
-def soma_dobro(a, b):
+def soma_dobro(a: int, b: int) -> int:
   return a + b if a != b else (a + b) * 2
 
 # D. diff21
@@ -31,7 +31,7 @@ def soma_dobro(a, b):
 # diff21(19) -> 2
 # diff21(25) -> 8
 # dica: abs(x) retorna o valor absoluto de x
-def diff21(n):
+def diff21(n: int) -> int:
   diff = abs(n - 21)
   return diff if n < 21 else diff * 2
 
@@ -40,13 +40,13 @@ def diff21(n):
 # hora é um parâmetro entre 0 e 23
 # temos problemas se o papagaio estiver falando
 # antes da 7 ou depois das 20
-def papagaio(falando, hora):
+def papagaio(falando: bool, hora: bool) -> bool:
   return falando and hora < 7 or falando and hora > 20
   
 # F. dez
 # dados dois inteiros a e b
 # retorna True se um dos dois é 10 ou a soma é 10
-def dez(a, b):
+def dez(a: int, b: int) -> bool:
   return a == 10 or b == 10 or a + b == 10
 
 # G. dista10
@@ -56,7 +56,7 @@ def dez(a, b):
 # dista10(93) -> True
 # dista10(90) -> True
 # dista10(89) -> False
-def dista10(n):
+def dista10(n: int) -> bool:
   return abs(n - 100) <= 10 or abs(n - 200) <= 10
 
 # H. apaga
@@ -64,7 +64,7 @@ def dista10(n):
 # retorna uma nova string sem a posição n
 # apaga('kitten', 1) -> 'ktten'
 # apaga('kitten', 4) -> 'kittn'
-def apaga(s, n):
+def apaga(s: str, n: int) -> str:
   return str(s).replace(s[n], "")
 
 # I. troca
@@ -74,7 +74,7 @@ def apaga(s, n):
 # troca('code') -> 'eodc'
 # troca('a') -> 'a'
 # troca('ab') -> 'ba'
-def troca(s):
+def troca(s: str) -> str:
   return s if len(s) <= 1 else s[-1] + s[1:-1] + s[0]
 
 # Provided simple test() function used in main() to print
