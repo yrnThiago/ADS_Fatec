@@ -3,7 +3,7 @@
 
 <br>
 <p align="center">
-  <a href="#magright-sobreoprojeto">Sobre</a> •
+  <a href="#mag_right-sobreoprojeto">Sobre</a> •
   <a href="#books-metodologia">Metodologia</a> •
   <a href="#bike-mvp">MVP</a> •
   <a href="#date-sprints">Sprints</a> •
