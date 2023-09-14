@@ -3,11 +3,12 @@
 
 <br>
 <p align="center">
-  <a href="#mag_right-sobre-o-projeto">Sobre</a> •
-  <a href="#books-metodologia">Metodologia</a> •
-  <a href="#bike-mvp">MVP</a> •
-  <a href="#date-sprints">Sprints</a> •
-  <a href="#computer-equipe">Equipe</a> •
+  <a href="#-sobre-o-projeto">Sobre</a> •
+  <a href="#-metodologia">Metodologia</a> •
+  <a href="#-mvp">MVP</a> •
+  <a href="#-sprints">Sprints</a> •
+  <a href="#-backlogs">Backlogs</a> •
+  <a href="#-equipe">Equipe</a>
 </p>
 
 <br>
