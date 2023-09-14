@@ -4,7 +4,13 @@
   <h1>Equipe: </h1>
 
 </div>
-| Nome           | GitHub                              | LinkedIn                                       |
-| ---------------| -----------------------------------| -----------------------------------------------|
-| John Doe       | [johndoe](https://github.com/johndoe) | [John Doe](https://www.linkedin.com/in/johndoe) |
-| Jane Smith     | [janesmith](https://github.com/janesmith) | [Jane Smith](https://www.linkedin.com/in/janesmith) |
+| :---------- | :--------- | :---------------------------------- |
+| Nome do aluno | LOGO GITHUB | LOGO LINKEDIN |
+| Nome do aluno | LOGO GITHUB | LOGO LINKEDIN |
+| Nome do aluno | LOGO GITHUB | LOGO LINKEDIN |
+| Nome do aluno | LOGO GITHUB | LOGO LINKEDIN |
+| Nome do aluno | LOGO GITHUB | LOGO LINKEDIN |
+| Nome do aluno | LOGO GITHUB | LOGO LINKEDIN |
+| Nome do aluno | LOGO GITHUB | LOGO LINKEDIN |
+| Nome do aluno | LOGO GITHUB | LOGO LINKEDIN |
+| Nome do aluno | LOGO GITHUB | LOGO LINKEDIN |
