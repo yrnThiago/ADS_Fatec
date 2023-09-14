@@ -3,11 +3,11 @@
 
 <br>
 <p align="center">
-  <a href="#sobreoprojeto">Sobre</a> •
-  <a href="#metodologia">Metodologia</a> •
-  <a href="#mvp">MVP</a> •
-  <a href="#sprints">Sprints</a> •
-  <a href="#equipe">Equipe</a> •
+  <a href="#magright-sobreoprojeto">Sobre</a> •
+  <a href="#books-metodologia">Metodologia</a> •
+  <a href="#bike-mvp">MVP</a> •
+  <a href="#date-sprints">Sprints</a> •
+  <a href="#computer-equipe">Equipe</a> •
 </p>
 
 <br>
