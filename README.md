@@ -1,6 +1,12 @@
+# Fatec Prof Jessen Vidal - São José dos Campos - 1º Semestre ADS
+
+<p align="center">
+  <a href="#equipe">Equipe</a> •
+</p>
+
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=ff6600&style=for-the-badge)
-<h1 align="center">Fatec Prof Jessen Vidal - São José dos Campos - 1º Semestre ADS</h1>
-# Equipe:
+
+## :computer: Equipe:
 
 |  Membro  |  Função  |  Github  |  Linkedin  |
 | ------------- | ------------- | ------------- | ------------- |
