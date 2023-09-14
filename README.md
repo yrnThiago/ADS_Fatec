@@ -25,7 +25,7 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=ff6600&style=for-the-badge" />
 <br>
 
-## :mag_right: Sobre o projeto:
+## :mag_right: Sobre o projeto
 
 ## :books: Metodologia
 
@@ -33,7 +33,7 @@
 
 ## :date: Sprints
 
-## :computer: Equipe:
+## :computer: Equipe
 
 |  Membro  |  Função  |  Github  |  Linkedin  |
 | ------------- | ------------- | ------------- | ------------- |
