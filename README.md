@@ -4,6 +4,7 @@
   <h1>Equipe: </h1>
 
 </div>
+| NOME   | GITHUB       | LINKEDIN                           |
 | :---------- | :--------- | :---------------------------------- |
 | Nome do aluno | LOGO GITHUB | LOGO LINKEDIN |
 | Nome do aluno | LOGO GITHUB | LOGO LINKEDIN |
