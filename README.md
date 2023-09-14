@@ -3,11 +3,16 @@
 
 <br>
 <p align="center">
+  <a href="#sobreoprojeto">Sobre</a> •
+  <a href="#metodologia">Metodologia</a> •
+  <a href="#mvp">MVP</a> •
+  <a href="#sprints">Sprints</a> •
   <a href="#equipe">Equipe</a> •
 </p>
 
 <br>
 <div align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
@@ -19,6 +24,14 @@
 <br>
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=ff6600&style=for-the-badge" />
 <br>
+
+## :mag_right: Sobre o projeto:
+
+## :books: Metodologia
+
+## :bike: MVP
+
+## :date: Sprints
 
 ## :computer: Equipe:
 
