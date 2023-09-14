@@ -26,30 +26,30 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=ff6600&style=for-the-badge" />
 <br>
 
-## 🔎: Sobre o projeto
+## 🔎 Sobre o projeto
 <h3> • </h3>
 <br>
 
-## 📚: Metodologia
+## 📚 Metodologia
 <h3> • </h3>
 <br>
 
-## 🚲: MVP
+## 🚲 MVP
 <h3> • </h3>
 <br>
 
-## 📅: Sprints
+## 📅 Sprints
 <h3>• Sprint 1 (04/09 - 24/09): Em andamento... :alarm_clock: </h3>
 <h3>• Sprint 2 (25/09 - 15/10): Aguardando data de início :calendar:</h3>
 <h3>• Sprint 3 (16/10 - 05/11): Aguardando data de início :calendar:</h3>
 <h3>• Sprint 4 (06/11 - 26/11): Aguardando data de início :calendar:</h3>
 <br>
 
-## 🎯: Backlogs
+## 🎯 Backlogs
 <h3> • </h3>
 <br>
 
-## 💻: Equipe
+## 💻 Equipe
 
 |  Membro  |  Função  |  Github  |  Linkedin  |
 | ------------- | ------------- | ------------- | ------------- |
