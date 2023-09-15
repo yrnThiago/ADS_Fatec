@@ -79,7 +79,7 @@ body {
 @media(max-width: 680px) {
     .cabecalho {
         flex-direction: column;
-        justify-items: center;
+        text-align: center;
     }
 
     .cabecalho__menu {
