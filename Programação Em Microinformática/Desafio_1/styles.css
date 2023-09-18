@@ -4,7 +4,7 @@
     --cor-de-fundo-capa: #EFEFEF;
     --cor-divider-primaria: grey;
 
-    --tamanho-tela-disponivel: 60%;
+    --tamanho-tela-disponivel: 65%;
     --margem-padrao: 0px calc((100% - var(--tamanho-tela-disponivel)) / 2);
     
     
@@ -16,7 +16,7 @@ body {
     background-color: var(--cor-de-fundo-primaria);
 }
 
-.linha_azul {
+.header__background__linha_azul {
     background-color: var(--cor-de-fundo-secundaria);
     height: 10px;
 }
