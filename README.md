@@ -3,7 +3,7 @@
 
 <br>
 <p align="center">
-  <a href="#-sobre-o-projeto">Sobre</a> •
+  <a href="#-visão-do-projeto">Visão do projeto</a> •
   <a href="#-metodologia">Metodologia</a> •
   <a href="#-mvp">MVP</a> •
   <a href="#-sprints">Sprints</a> •
@@ -44,16 +44,16 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=ff6600&style=for-the-badge" />
 <br>
 
-## 🔎 Sobre o projeto
-<h3> • </h3>
+## 🔎 Visão do projeto
+<h4> • </h4>
 <br>
 
 ## 📚 Metodologia
-<h3> • </h3>
+<h4> • O Scrum é uma metodologia ágil de gerenciamento de projetos que se baseia em ciclos iterativos curtos, chamados de "sprints", nos quais equipes colaborativas trabalham em conjunto para criar entregas incrementais de um projeto, priorizando tarefas em listas de pendências chamadas "backlogs". O Scrum promove a transparência, a adaptação constante e a comunicação eficaz, permitindo que as equipes respondam de forma ágil às mudanças nos requisitos e alcancem resultados de alta qualidade de forma iterativa. </h4>
 <br>
 
 ## 🚲 MVP
-<h3> • </h3>
+<h4> • O MVP, ou Mínimo Produto Viável, é uma abordagem no desenvolvimento de produtos que envolve a criação de uma versão simplificada com apenas os recursos essenciais para atender às necessidades básicas dos primeiros usuários, com o objetivo de validar a viabilidade e aceitação do produto no mercado, coletando feedback valioso para direcionar o desenvolvimento de maneira eficiente e reduzir riscos. </h4>
 <br>
 
 ## 📅 Sprints
@@ -64,7 +64,9 @@
 <br>
 
 ## 🎯 Backlogs
-<h3> • </h3>
+|  ID  |  Descrição  |  US  |
+| ------------- | ------------- | ------------- |
+|  ID  |  Descrição  |  US  |
 <br>
 
 ## 💻 Equipe
