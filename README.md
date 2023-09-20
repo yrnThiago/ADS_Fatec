@@ -45,7 +45,7 @@
 <br>
 
 ## 🔎 Visão do projeto
-<h4> • </h4>
+<h4> • A nossa visão é transformar a complexidade do Método Scrum em simplicidade, capacitando os funcionários das empresas a compreender e implementar eficazmente essa metodologia ágil. Através deste site, buscamos fornecer recursos e orientações práticas para que equipes em todos os níveis possam abraçar o Scrum como uma ferramenta poderosa para melhorar a colaboração, aumentar a produtividade e alcançar resultados excepcionais. Nosso compromisso é tornar o Scrum acessível a todos, capacitando-os a trazer agilidade e inovação para seus ambientes de trabalho. </h4>
 <br>
 
 ## 📚 Metodologia
@@ -64,9 +64,9 @@
 <br>
 
 ## 🎯 Backlogs
-|  ID  |  Descrição  |  US  |
-| ------------- | ------------- | ------------- |
-|  ID  |  Descrição  |  US  |
+|  ID  |  Sprint  |  US  |  Item  |  Estimativa de entrega  |  Status  |  Story Points  |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+|  #01  |  1  |  US  |  Item  |  Estimativa de entrega  |  Status  |  Story Points  |
 <br>
 
 ## 💻 Equipe
@@ -77,7 +77,7 @@
 | Ana Clara Tolomelli  | Scrum Master |[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/)|[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) |
 | Igor Siqueira Prado  | Dev Team |[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/)|[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) |
 | Maria Clara Fernandes  | Dev Team |[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/)|[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) |
-| Pedir Henrique dos Santos  | Dev Team |[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/)|[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) |
+| Pedro Henrique dos Santos  | Dev Team |[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/)|[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) |
 | Poliana Maria de Souza  | Dev Team |[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/)|[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) |
 | Samara de Paula Santos  | Dev Team |[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/)|[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) |
 | Thiago Ribeiro Dias  | Dev Team |[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yrnThiago)|[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-ribeiro-690b4114b/) |
