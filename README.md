@@ -67,7 +67,7 @@
 ## 🎯 Backlogs
 |  ID  |  Sprint  |  Item  |  Descrição  |  Estimativa de entrega  |  Status  |  Prioridade  |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|  #01  |  1  |  Design de Infromação  |  Definir a estrutura de informações do site, esboçar um mapa de navegação  |  0h  |  :heavy_check_mark:  |  0  |
+|  #01  |  1  |  Design de Informação  |  Definir a estrutura de informações do site, esboçar um mapa de navegação  |  0h  |  :heavy_check_mark:  |  0  |
 |  #02  |  1  |  Design Visual  |  Desenvolver o conceito de design do site, incluindo cores, tipografia e logotipo  |  0h  |  :heavy_check_mark:  |  0  |
 |  #03  |  1  |  Configuração de Ambiente de Desenvolvimento  |   Configurar um ambiente de desenvolvimento web (github)  |  2h  |  :heavy_check_mark:  |  95  |
 |  #04  |  1  |  Desenvolvimento de Layout Inicial da Página Inicial  |   Criar a página inicial do site  |  0h  |  :heavy_check_mark:  |  0  |
