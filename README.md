@@ -96,6 +96,7 @@
 <div align="center">
   <a href="https://www.figma.com/proto/bVxTiUGhlouxndwP9SJ7Qt/Prot%C3%B3tipo-M%C3%A9todo-Scrum?page-id=0%3A1&type=design&node-id=41-119&viewport=-1321%2C1068%2C0.28&t=sUBfCtlVCwPAMsWc-1&scaling=scale-down">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  </a>
   <a href="https://youtu.be/3OMxZvWQ0xk">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
   </a>
