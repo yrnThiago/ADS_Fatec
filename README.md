@@ -8,6 +8,7 @@
   <a href="#-mvp">MVP</a> •
   <a href="#-sprints">Sprints</a> •
   <a href="#-backlogs">Backlogs</a> •
+  <a href="#-wireframe">Wireframe</a> •
   <a href="#-equipe">Equipe</a>
 </p>
 
