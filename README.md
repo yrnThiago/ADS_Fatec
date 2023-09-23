@@ -85,7 +85,7 @@
 
 ## 🎨 Wireframe
 <div style="display: grid;" align="center">
-  <img src="https://clipground.com/images/fundo-branco-png-1.png" width="400" height="225"/>
+  <img src="home.png" width="400" height="225"/>
   <img src="https://clipground.com/images/fundo-branco-png-1.png" width="400" height="225"/>
   <img src="https://clipground.com/images/fundo-branco-png-1.png" width="400" height="225"/>
   <img src="https://clipground.com/images/fundo-branco-png-1.png" width="400" height="225"/>
