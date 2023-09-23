@@ -70,6 +70,9 @@
 |  #02  |  1  |  Design Visual  |  Desenvolver o conceito de design do site, incluindo cores, tipografia e logotipo  |  0h  |  :heavy_check_mark:  |  0  |
 |  #03  |  1  |  Configuração de Ambiente de Desenvolvimento  |   Configurar um ambiente de desenvolvimento web (github)  |  0h  |  :heavy_check_mark:  |  0  |
 |  #04  |  1  |  Desenvolvimento de Layout Inicial da Página Inicial  |   Criar a página inicial do site  |  0h  |  :heavy_check_mark:  |  0  |
+|  #05  |  2  |  Criação de Conteúdo Inicial  |   Escrever os primeiros artigos e recursos sobre o Método Ágil  |  0h  |  :x:  |  0  |
+|  #06  |  2  |  Design de Página Interna  |   Desenvolver o design das páginas internas do site (html)  |  0h  |  :x:  |  0  |
+|  #07  |  2  |  Programação e Integração  |   Iniciar o desenvolvimento do site nas linguagens de marcação e programação  |  0h  |  :x:  |  0  |
 <br>
 
 ## 💻 Equipe
