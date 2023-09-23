@@ -83,7 +83,7 @@
 |  #14  |  4  |  Avaliação pós-lançamento  |   Coletar feedback dos usuários e planejar melhorias  |  0h  |  :x:  |  0  |
 <br>
 
-## 📅 Wireframe
+## 🎨 Wireframe
 <div style="display: grid;" align="center">
   <img src="https://clipground.com/images/fundo-branco-png-1.png" width="400" height="225"/>
   <img src="https://clipground.com/images/fundo-branco-png-1.png" width="400" height="225"/>
