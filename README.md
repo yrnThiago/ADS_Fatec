@@ -73,6 +73,13 @@
 |  #05  |  2  |  Criação de Conteúdo Inicial  |   Escrever os primeiros artigos e recursos sobre o Método Ágil  |  0h  |  :x:  |  0  |
 |  #06  |  2  |  Design de Página Interna  |   Desenvolver o design das páginas internas do site (html)  |  0h  |  :x:  |  0  |
 |  #07  |  2  |  Programação e Integração  |   Iniciar o desenvolvimento do site nas linguagens de marcação e programação  |  0h  |  :x:  |  0  |
+|  #08  |  3  |  Implementação de Funcionalidades Adicionais  |   Adicionar recursos como pesquisa, categorização de conteúdo e formulários  |  0h  |  :x:  |  0  |
+|  #09  |  3  |  Testes de Funcionalidade  |   Testar as funcionalidades implementadas  |  0h  |  :x:  |  0  |
+|  #10  |  3  |  Otimização de Desempenho  |   Otimizar o desempenho do site e refinar scripts  |  0h  |  :x:  |  0  |
+|  #11  |  3  |  Preparação para a entrega  |   Preparar o site para lançamento, incluindo revisões finais e testes de segurança  |  0h  |  :x:  |  0  |
+|  #12  |  4  |  Documentação  |   Criar documentação interna e externa para o site  |  0h  |  :x:  |  0  |
+|  #13  |  4  |  Entrega  |   Realizar a entrega final do produto  |  0h  |  :x:  |  0  |
+|  #14  |  4  |  Avaliação pós-lançamento  |   Coletar feedback dos usuários e planejar melhorias  |  0h  |  :x:  |  0  |
 <br>
 
 ## 💻 Equipe
