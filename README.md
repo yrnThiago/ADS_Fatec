@@ -58,7 +58,7 @@
 <br>
 
 ## 📅 Sprints
-<h3>• Sprint 1 (04/09 - 24/09): Wireframe (Concluído:heavy_check_mark:) </h3>
+<h3>• Sprint 1 (04/09 - 24/09): <a href="#-wireframe">Wireframe</a> (Concluído:heavy_check_mark:) </h3>
 <h3>• Sprint 2 (25/09 - 15/10): Aguardando data de início :calendar:</h3>
 <h3>• Sprint 3 (16/10 - 05/11): Aguardando data de início :calendar:</h3>
 <h3>• Sprint 4 (06/11 - 26/11): Aguardando data de início :calendar:</h3>
@@ -69,7 +69,7 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |  #01  |  1  |  Design de Infromação  |  Definir a estrutura de informações do site, esboçar um mapa de navegação  |  0h  |  :heavy_check_mark:  |  0  |
 |  #02  |  1  |  Design Visual  |  Desenvolver o conceito de design do site, incluindo cores, tipografia e logotipo  |  0h  |  :heavy_check_mark:  |  0  |
-|  #03  |  1  |  Configuração de Ambiente de Desenvolvimento  |   Configurar um ambiente de desenvolvimento web (github)  |  0h  |  :heavy_check_mark:  |  0  |
+|  #03  |  1  |  Configuração de Ambiente de Desenvolvimento  |   Configurar um ambiente de desenvolvimento web (github)  |  2h  |  :heavy_check_mark:  |  95  |
 |  #04  |  1  |  Desenvolvimento de Layout Inicial da Página Inicial  |   Criar a página inicial do site  |  0h  |  :heavy_check_mark:  |  0  |
 |  #05  |  2  |  Criação de Conteúdo Inicial  |   Escrever os primeiros artigos e recursos sobre o Método Ágil  |  0h  |  :x:  |  0  |
 |  #06  |  2  |  Design de Página Interna  |   Desenvolver o design das páginas internas do site (html)  |  0h  |  :x:  |  0  |
