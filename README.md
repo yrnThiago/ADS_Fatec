@@ -57,7 +57,7 @@
 <br>
 
 ## 📅 Sprints
-<h3>• Sprint 1 (04/09 - 24/09): Wireframe ( Em andamento :alarm_clock: ) </h3>
+<h3>• Sprint 1 (04/09 - 24/09): Wireframe (Concluído:heavy_check_mark:) </h3>
 <h3>• Sprint 2 (25/09 - 15/10): Aguardando data de início :calendar:</h3>
 <h3>• Sprint 3 (16/10 - 05/11): Aguardando data de início :calendar:</h3>
 <h3>• Sprint 4 (06/11 - 26/11): Aguardando data de início :calendar:</h3>
@@ -82,16 +82,32 @@
 |  #14  |  4  |  Avaliação pós-lançamento  |   Coletar feedback dos usuários e planejar melhorias  |  0h  |  :x:  |  0  |
 <br>
 
+## 📅 Wireframe
+<div style="display: grid;" align="center">
+  <img src="https://clipground.com/images/fundo-branco-png-1.png" width="400" height="225"/>
+  <img src="https://clipground.com/images/fundo-branco-png-1.png" width="400" height="225"/>
+  <img src="https://clipground.com/images/fundo-branco-png-1.png" width="400" height="225"/>
+  <img src="https://clipground.com/images/fundo-branco-png-1.png" width="400" height="225"/>
+  <img src="https://clipground.com/images/fundo-branco-png-1.png" width="400" height="225"/>
+  <img src="https://clipground.com/images/fundo-branco-png-1.png" width="400" height="225"/>
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=jhy6QfHKiXI">Vídeo no Youtube</a>
+</div>
+
+<br>
+
 ## 💻 Equipe
 
 |  Membro  |  Função  |  Github  |  Linkedin  |
 | ------------- | ------------- | ------------- | ------------- |
 | Larissa Colucci Gomes  | Product Owner |[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LarissaCGomes)|    |
-| Ana Clara Tolomelli  | Scrum Master |[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/)|[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaclaratolomelli) |
-| Igor Siqueira Prado  | Dev Team |[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/)|[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) |
+| Ana Clara Tolomelli  | Scrum Master |[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ninabtolo)|[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaclaratolomelli) |
+| Igor Siqueira Prado  | Dev Team |[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IgorSiqueira7)|     |
 | Maria Clara Fernandes  | Dev Team |[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/)|[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) |
 | Pedro Henrique dos Santos  | Dev Team |[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/)|[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) |
-| Poliana Maria de Souza  | Dev Team |[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/)|[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) |
+| Poliana Maria de Souza  | Dev Team |[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PolianaSouza98)|[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poliana-souza-680078111) |
 | Samara de Paula Santos  | Dev Team |[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamaraSantos03)|      |
 | Thiago Ribeiro Dias  | Dev Team |[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yrnThiago)|[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-ribeiro-690b4114b/) |
 
