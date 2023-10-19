@@ -37,8 +37,17 @@ def derivada(coef):
 # [3, 1, 5] + [5, 9, 2] = [8, 0, 8]
 # pode supor que n1 e n2 tem o mesmo número de dígitos
 # Não vale converter a lista em número para somar diretamente
-def soma(n1, n2):
-  return
+def soma(n1: list[int], n2: list[int]) -> list[int]:
+    soma_lista, resto = [], 0
+    for i in range(len(n1)):
+        soma = n1[i] + n2[i] + resto
+        if soma >= 10:
+            resto = 1
+            soma -= 10
+
+        soma_lista.append(soma)
+
+    return soma_lista
 
 # H. Anagrama
 # Verifique se duas palavras são anagramas,
