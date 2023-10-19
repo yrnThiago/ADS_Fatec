@@ -16,7 +16,7 @@ def near_ten(n: int) -> bool:
 # lone_sum(1, 2, 3) -> 6
 # lone_sum(3, 2, 3) -> 2
 # lone_sum(3, 3, 3) -> 0
-def lone_sum(a, b, c):
+def lone_sum(a: int, b: int, c: int) -> int:
     lone_sum = 0
     if a != b and a != c:
         lone_sum += a
@@ -96,7 +96,7 @@ def end_other(a: str, b: str) -> bool:
 # count_evens([2, 1, 2, 3, 4]) -> 3
 # count_evens([2, 2, 0]) -> 3
 # count_evens([1, 3, 5]) -> 0
-def count_evens(nums: list) -> int:
+def count_evens(nums: list[int]) -> int:
   return len([n for n in nums if n % 2 == 0])
 
 # J. sum13 #
@@ -106,7 +106,7 @@ def count_evens(nums: list) -> int:
 # sum13([1, 1]) -> 2
 # sum13([1, 2, 2, 1, 13]) -> 6
 # sum13([13, 1, 2, 3, 4]) -> 0
-def sum13(nums: list):
+def sum13(nums: list[int]) -> int:
   return sum(nums[:nums.index(13) if 13 in nums else 10]) 
 
 # K. has22 #
@@ -114,7 +114,7 @@ def sum13(nums: list):
 # has22([1, 2, 2]) -> True
 # has22([1, 2, 1, 2]) -> False
 # has22([2, 1, 2]) -> False
-def has22(nums: list) -> bool:
+def has22(nums: list[int]) -> bool:
     for i in range(len(nums) - 1):
         if nums[i] == nums[i + 1]:
             return True
@@ -129,7 +129,7 @@ def has22(nums: list) -> bool:
 # soma_na_lista(8, [1, 2, 3, 4]) -> False
 # soma_na_lista(4, [2, 2, 2, 2]) -> False
 # soma_na_lista(4, [2, 2, 1, 3]) -> True
-def soma_na_lista(n: int, lista: list) -> bool:
+def soma_na_lista(n: int, lista: list[int]) -> bool:
   for i in range(len(lista)-1):
     if lista[i] + lista[i+1] == n and lista[i] != lista[i+1]:
       return True
@@ -144,9 +144,8 @@ def soma_na_lista(n: int, lista: list) -> bool:
 # fila_tijolos(3, 1, 8) -> True
 # fila_tijolos(3, 1, 9) -> False
 # fila_tijolos(3, 2, 10) -> True
-def fila_tijolos(n_peq, n_gra, meta):
-  print(n_peq, n_gra, meta, n_peq + n_gra * 5)
-  return n_peq + n_gra * 5 >= meta
+def fila_tijolos(n_peq: int, n_gra: int, meta: int) -> bool:
+  return n_peq + n_gra * 5 >= meta and n_peq >= meta % 5
 
 # Provided simple test() function used in main() to print
 # what each function returns vs. what it's supposed to return.
