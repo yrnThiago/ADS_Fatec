@@ -41,11 +41,15 @@ def soma(n1: list[int], n2: list[int]) -> list[int]:
     soma_lista, resto = [], 0
     for i in range(len(n1)):
         soma = n1[i] + n2[i] + resto
+        resto = 0
         if soma >= 10:
             resto = 1
             soma -= 10
 
         soma_lista.append(soma)
+
+    if resto == 1:
+        soma_lista.append(resto)
 
     return soma_lista
 
@@ -56,7 +60,7 @@ def soma(n1: list[int], n2: list[int]) -> list[int]:
 # anagrama('amor', 'ramo') = True
 # anagrama('aba', 'baba') = False
 def anagrama(s1: str, s2: str) -> bool:
-  return len(s1) == len(s2) and sorted(s1) == sorted(s2)
+  return sorted(s1) == sorted(s2)
 
 def test(obtido, esperado):
   if obtido == esperado:
