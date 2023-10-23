@@ -10,7 +10,7 @@
 
 # D. Dada uma lista de números retorna uma lista sem os elementos repetidos
 def remove_iguais(nums: list[int]) -> list[int]:
-  return [*set(nums)]
+  return list(set(nums))
 
 # E. Cripto desafio!!
 # Dada uma frase, você deve retirar todas as letras repetidas das palavras
@@ -28,8 +28,8 @@ def cripto(frase: str) -> str:
 # Você deverá devolver uma lista com os coeficientes da derivada.
 # Exemplo: [3, 2, 5, 2] retorna [2, 10, 6]
 # A derivada de 3 + 2x + 5x^2 + 2x^3 é 2 + 10x + 6x^2
-def derivada(coef):
-  return
+def derivada(coef: list[int]) -> list[int]:
+  return [(i + 1) * x for i, x in enumerate(coef[1:])]
 
 # G. Soma em listas invertidas
 # Colocamos os dígitos de dois números em listas ao contrário
